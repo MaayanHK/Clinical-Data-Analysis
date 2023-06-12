@@ -12,4 +12,4 @@ In 2011 I submitted my thesis on the relations between premature birth and key c
 After my recent Data Analyst training I decided to revisit my thesis with a modern tool set.
 This repository includes the following:
 - Excel sheet with the research data and my recent analysis
-- A report summairizing my analysis of the data using Excel
+- A report summarizing my analysis of the data using Excel
